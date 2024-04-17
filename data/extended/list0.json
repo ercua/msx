@@ -110,7 +110,7 @@
                     "selection": {
                         "headline": "First Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -204,7 +204,7 @@
                     "selection": {
                         "headline": "Second Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -298,7 +298,7 @@
                     "selection": {
                         "headline": "Third Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -383,7 +383,7 @@
                     "selection": {
                         "headline": "First Subpage - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -477,7 +477,7 @@
                     "selection": {
                         "headline": "Fourth Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -571,7 +571,7 @@
                     "selection": {
                         "headline": "Fifth Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -665,7 +665,7 @@
                     "selection": {
                         "headline": "Sixth Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -750,7 +750,7 @@
                     "selection": {
                         "headline": "Second Subpage - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
@@ -844,7 +844,7 @@
                     "selection": {
                         "headline": "Seventh Page - Show All {txt:msx-white-soft:(30)}"
                     },
-                    "action": "content:https://benzac-de.github.io/msx/data/extended/sublist0.json"
+                    "action": "content:https://ercua.github.io/msx/data/extended/sublist0.json"
                 }
             ]
         },
