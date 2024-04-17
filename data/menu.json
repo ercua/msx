@@ -4,7 +4,7 @@
         {
             "icon": "info",
             "label": "Welcome",
-            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+            "data": "https://ercua.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
@@ -13,12 +13,12 @@
         {
             "icon": "movie",
             "label": "Videos",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+            "data": "https://ercua.github.io/msx/data/base/videos.json"
         },
         {
             "icon": "music-note",
             "label": "Audios",
-            "data": "https://benzac-de.github.io/msx/data/base/audios.json"
+            "data": "https://ercua.github.io/msx/data/base/audios.json"
         },
         {
             "icon": "image",
