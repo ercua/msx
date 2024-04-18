@@ -1,5 +1,5 @@
 {
     "name": "GitHub Pages Example",
     "version": "1.0.2",
-    "parameter": "menu:https://ercua.github.io/msx/data/menu.json"
+    "parameter": "menu:http://point.pp.ua/msx/data/menu.json"
 }
