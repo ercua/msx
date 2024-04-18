@@ -1,82 +1,38 @@
 {
-    "headline": "GitHub Pages Example",
-    "menu": [
-        {
-            "icon": "info",
-            "label": "Welcome",
-            "data": "https://point.pp.ua/msx/data/welcome.json"
-        },
-        {
-            "type": "separator",
-            "label": "Base"
-        },
-        {
-            "icon": "movie",
-            "label": "Videos",
-            "data": "https://point.pp.ua/msx/data/base/videos.json"
-        },
-        {
-            "icon": "music-note",
-            "label": "Audios",
-            "data": "https://point.pp.ua/msx/data/base/audios.json"
-        },
-        {
-            "icon": "image",
-            "label": "Images",
-            "data": "https://point.pp.ua/msx/data/base/images.json"
-        },
-        {
-            "icon": "smart-display",
-            "label": "YouTube",
-            "data": "https://point.pp.ua/msx/data/base/youtube.json"
-        },
-        {
-            "type": "separator",
-            "label": "Extended - Lists"
-        },
-        {
-            "icon": "view-stream",
-            "label": "First List",
-            "data": "https://point.pp.ua/msx/data/extended/list0.json"
-        },
-        {
-            "icon": "view-stream",
-            "label": "Second List",
-            "data": "https://point.pp.ua/msx/data/extended/list1.json"
-        },
-        {
-            "icon": "view-stream",
-            "label": "Third List",
-            "data": "https://point.pp.ua/msx/data/extended/list2.json"
-        },
-        {
-            "icon": "view-stream",
-            "label": "Fourth List",
-            "data": "https://point.pp.ua/msx/data/extended/list3_section0.json"
-        },
-        {
-            "icon": "view-stream",
-            "label": "Fifth List",
-            "data": "https://point.pp.ua/msx/data/extended/list4.json"
-        },
-        {
-            "icon": "view-stream",
-            "label": "Sixth List",
-            "data": "https://point.pp.ua/msx/data/extended/list5.json"
-        },
-        {
-            "type": "separator",
-            "label": "Extended - Pages"
-        },
-        {
-            "icon": "view-array",
-            "label": "First Pages",
-            "data": "https://point.pp.ua/msx/data/extended/pages0.json"
-        },
-        {
-            "icon": "view-array",
-            "label": "Second Pages",
-            "data": "https://point.pp.ua/msx/data/extended/pages1.json"
-        }
+    "name": "Pro4you",
+    "type": "list",
+    "extension": "{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "background": "https://raw.githubusercontent.com/ercua/msx/main/msx/img/HXoGeOC.png",
+    "headline": "Point 4you",
+    "version": "1.0.0",
+    "parameter": "content:https://raw.githubusercontent.com/ercua/msx/start.jsonn",
+    "action": "[settings:validate_links:0|home]",
+    "dictionary": "https://raw.githubusercontent.com/ercua/msx/main/lang/ru.json",
+    "launcher": {
+       "image": "https://avatars.githubusercontent.com/u/23138402?v=4"
+    },
+    "template": {
+       "type": "separate",
+       "layout": "0,0,2,3",
+       "alignment": "title-center",
+       "color": "msx-glass"
+    },
+    "items": [
+       {
+          "title": "Lampa",
+          "image": "https://raw.githubusercontent.com/nekto966/msx//main/img/lampa.jpg",
+          "action": "link:http://lampa.mx/"
+       },
+       {
+          "title": "Atodo",
+          "image": "https://raw.githubusercontent.com/ercua/msx/main/img/atodo.png",
+          "action": "menu:request:interaction:menu@http://atodo.fun/fun.html"
+       },
+       {
+          "title": "Atodo web",
+          "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/atodo.png",
+          "action": "link:http://msx.atodo.fun/"
+       },
+      
     ]
-}
+ }
