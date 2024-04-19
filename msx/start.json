@@ -5,7 +5,7 @@
     "background": "https://raw.githubusercontent.com/ercua/msx/main/msx/img/HXoGeOC.png",
     "headline": "Point 4you",
     "version": "1.0.0",
-    "parameter": "content:https://raw.githubusercontent.com/ercua/msx/start.json",
+    "parameter": "content:point.pp.ua/msx/start.json",
     "action": "[settings:validate_links:0|home]",
     "launcher": {
        "image": "https://avatars.githubusercontent.com/u/23138402?v=4"
